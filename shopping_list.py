@@ -16,4 +16,5 @@ for k, v in shopping_list.items():
     print("")
     
 print(f"\nI've bought {listlen} items")
-        
+
+print("'Spanish Inqusition' is the best Monty Python skit")
