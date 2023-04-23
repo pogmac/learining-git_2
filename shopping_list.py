@@ -18,3 +18,4 @@ for k, v in shopping_list.items():
 print(f"\nI've bought {listlen} items")
 
 print("'Spanish Inqusition' is the best Monty Python skit")
+print("Over and out")
