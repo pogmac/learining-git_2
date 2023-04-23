@@ -1,4 +1,4 @@
-print("This is a shopping list")
+print("\nThis is a shopping list \n")
 
 shopping_list = {
     "bakery": ["bread","bun","baguette"],
@@ -14,5 +14,5 @@ for k, v in shopping_list.items():
     for i in range(len(v)):
         print(v[i].capitalize(), end = " ")
     print("")
-
+print(f"\nI've bought {listlen} items")
         
